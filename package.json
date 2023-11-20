@@ -1,0 +1,20 @@
+{
+  "name": "convergejs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cameron campbell",
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "^1.0.13",
+    "ts-arithmetic": "^0.1.1"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
